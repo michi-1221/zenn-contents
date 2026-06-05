@@ -155,3 +155,7 @@ tty-clock --config /path/to/config.json
 
 `tty-clock` は、ターミナルにちょっとした彩りと実用性を加えてくれるツールです。
 `npx tty-clock@latest` ですぐ試せるので、気になった方はぜひ動かしてみてください。
+
+ソースコードは GitHub で公開しています（MIT ライセンス）。
+
+https://github.com/michi-1221/tty-clock
